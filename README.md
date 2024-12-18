@@ -1,4 +1,5 @@
 # CyberSecurity_Studies
  A collection of classwork and projects completed
 
-[![TryHackMe Badge](https://tryhackme.com/badge/2415930)](https://tryhackme.com)
+
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2415930)
